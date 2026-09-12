@@ -1,1 +1,218 @@
-
+{
+  "2026-09-12": {
+    "savedAt": "2026-09-12T10:20:16.988Z",
+    "categoriesEN": [
+      {
+        "name": "Entertainment",
+        "views": 13062602,
+        "count": 8
+      },
+      {
+        "name": "Gaming",
+        "views": 10386725,
+        "count": 17
+      },
+      {
+        "name": "Music",
+        "views": 10340365,
+        "count": 17
+      },
+      {
+        "name": "Film & Animation",
+        "views": 7307633,
+        "count": 4
+      },
+      {
+        "name": "Sports",
+        "views": 117917,
+        "count": 1
+      },
+      {
+        "name": "People & Blogs",
+        "views": 97026,
+        "count": 2
+      }
+    ],
+    "categoriesRU": [
+      {
+        "name": "Music",
+        "views": 4566577,
+        "count": 22
+      },
+      {
+        "name": "Gaming",
+        "views": 4276385,
+        "count": 18
+      },
+      {
+        "name": "Science & Technology",
+        "views": 1048358,
+        "count": 1
+      },
+      {
+        "name": "Comedy",
+        "views": 358545,
+        "count": 1
+      },
+      {
+        "name": "Entertainment",
+        "views": 333645,
+        "count": 2
+      },
+      {
+        "name": "Film & Animation",
+        "views": 166380,
+        "count": 3
+      },
+      {
+        "name": "People & Blogs",
+        "views": 61664,
+        "count": 2
+      }
+    ],
+    "topEN": [
+      {
+        "id": "FM8Fg9i9xhw",
+        "title": "🔴LIVE | WARDOGS | KING OF THE TOWERS | CLOAKZY X GIMMICK X COCONUT X HABIBI | #BUNGULATE",
+        "channel": "TheBurntPeanut",
+        "views": 1222673,
+        "velocity": 487026
+      },
+      {
+        "id": "sqBhmBJcndY",
+        "title": "GRIEF 97% 🔴 75%+ x44 🔴 STREAM 386",
+        "channel": "Doggie",
+        "views": 825389,
+        "velocity": 199681
+      },
+      {
+        "id": "J77i-E_0JWg",
+        "title": "LISA - SaWaDiKa (Dance Performance Video)",
+        "channel": "LLOUD Official",
+        "views": 2631450,
+        "velocity": 172122
+      },
+      {
+        "id": "gQf4Vya5PbI",
+        "title": "American Horror Story: 13 | Official Trailer | FX",
+        "channel": "FX Networks",
+        "views": 6465035,
+        "velocity": 145991
+      },
+      {
+        "id": "teyF15t-8lQ",
+        "title": "#418 Official Trailer - The Last Warning | Prashanth Neel Presents | Kirtan N | In Cinemas Sep 18th",
+        "channel": "Mythri Movie Makers",
+        "views": 3196455,
+        "velocity": 140734
+      },
+      {
+        "id": "h68WUZ8b0O0",
+        "title": "Searching for a Vault that Doesn't Exist",
+        "channel": "FlameFrags",
+        "views": 2787159,
+        "velocity": 130973
+      },
+      {
+        "id": "2IeXDEOcbSg",
+        "title": "​",
+        "channel": "DrDonut",
+        "views": 616710,
+        "velocity": 112255
+      },
+      {
+        "id": "nhdh962_ee0",
+        "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
+        "channel": "Avatar Legends",
+        "views": 3274575,
+        "velocity": 75655
+      },
+      {
+        "id": "K5SXamqxoio",
+        "title": "ENHYPEN (엔하이픈) 'Checkmate' Official MV",
+        "channel": "HYBE LABELS",
+        "views": 1196182,
+        "velocity": 62021
+      },
+      {
+        "id": "Vuv0kqGWjno",
+        "title": "The Cat in the Hat | Main Trailer",
+        "channel": "Warner Bros.",
+        "views": 2485928,
+        "velocity": 57428
+      }
+    ],
+    "topRU": [
+      {
+        "id": "K5SXamqxoio",
+        "title": "ENHYPEN (엔하이픈) 'Checkmate' Official MV",
+        "channel": "HYBE LABELS",
+        "views": 1196182,
+        "velocity": 62021
+      },
+      {
+        "id": "0c9AwG4mAv0",
+        "title": "ЗАПРЕТИТЕ ЭТОТ ШУТЕР",
+        "channel": "itpedia",
+        "views": 1048358,
+        "velocity": 41880
+      },
+      {
+        "id": "lhCPiauHI-g",
+        "title": "Lord Verity - Master of Humanity (song)",
+        "channel": "Horror Skunx",
+        "views": 463361,
+        "velocity": 33609
+      },
+      {
+        "id": "F7rliIICyzY",
+        "title": "Три обезьяны 2 ( BOMBANANA! )",
+        "channel": "JOHAN",
+        "views": 358545,
+        "velocity": 21240
+      },
+      {
+        "id": "aSsMroDuLiU",
+        "title": "МАЙНКРАФТ, НО СТАВЯ ОДИН БЛОК ПОЯВЛЯЕТСЯ МИЛЛИОН КОПИЙ!",
+        "channel": "EdisonPts",
+        "views": 412058,
+        "velocity": 19839
+      },
+      {
+        "id": "HhocPMgKU7A",
+        "title": "КТО ПОСТРОИЛ КОПИЮ НАШЕЙ ДЕРЕВНИ В МАЙНКРАФТ | Компот Minecraft",
+        "channel": "Компот",
+        "views": 438617,
+        "velocity": 19685
+      },
+      {
+        "id": "tIcCTg2aNdg",
+        "title": "🤯Я ПОПАЛ В ТОП ИГРОКОВ В УКРАДИ ЯЙЦО В РОБЛОКС!",
+        "channel": "EroxBlox",
+        "views": 430837,
+        "velocity": 18436
+      },
+      {
+        "id": "Yf5VC16GF-c",
+        "title": "👿 Майнкрафт, но Мы Создали СУПЕР ПИТОМЦА #6• Лучшее Зачарование [Соло Левелинг] + Фиксплей",
+        "channel": "MrLololoshka (Роман Фильченков)",
+        "views": 448523,
+        "velocity": 17118
+      },
+      {
+        "id": "YL0WhFWJvXw",
+        "title": "ВЕЛИКИЙ СНОУБОЛ! 100 ДНЕЙ в ПУСТЫНЕ на ОАЗИСЕ в РАСТ/RUST",
+        "channel": "WAKA",
+        "views": 318251,
+        "velocity": 16110
+      },
+      {
+        "id": "8z8wuHZ1Eug",
+        "title": "ЭМОЦИОНАЛЬНЫЕ КАЧЕЛИ: В ЛСК НОВЫЙ ВЛАДЕЛЕЦ! ГТА 5 РП (ECLIPSE GTA 5 RP)",
+        "channel": "Joe Speen",
+        "views": 295659,
+        "velocity": 15946
+      }
+    ]
+  }
+}
